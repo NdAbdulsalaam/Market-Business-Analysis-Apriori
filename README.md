@@ -14,4 +14,4 @@ The study of the transactional data set revealed that association rules were cru
 ## Algorithm Used
 - Apriori Algorithm
 
-## Where is the result of this Analysis? [Follow!](https://drive.google.com/file/d/1nXjRH373cEg8F6Rk8Sj5bQtRDIHt5T3b/view?usp=share_link)
+## To read the report of this analysis, [Follow!](https://drive.google.com/file/d/1nXjRH373cEg8F6Rk8Sj5bQtRDIHt5T3b/view?usp=share_link)
